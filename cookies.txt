@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+famobra.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	ipajeje41xxprr55tgp4jl53
+famobra.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+famobra.com	TRUE	/	FALSE	1999999999	Dynamicweb.SessionVisitor	VisitorSessionID=251314&VisitorDynamics=<dynamics />
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	dd7915619269185f117067d09f9fc663b1615058255
+maxcdn.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+famobra.com	TRUE	/	FALSE	1999999999	Ecom.SelectedLangID.Frontend	LANG1
+famobra.com	TRUE	/	FALSE	1999999999	Dynamicweb	VisitorID=ipajeje41xxprr55tgp4jl53&VisitDate=2021-03-06 08:17
+
